@@ -31,7 +31,7 @@
 
 <div align="left">
 
- <img src="[https://img.shields.io/static/v1](https://t.me/tewodros46)?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
+ <img src="https://t.me/tewodros46?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
 
   
   <a href="mailto:tewodrosd47@gmail.com">
