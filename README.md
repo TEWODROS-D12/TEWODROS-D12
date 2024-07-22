@@ -10,8 +10,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
 
 <div align="left">
@@ -43,12 +41,11 @@
 </div>
 
 
-- 🔭 I’m currently working on Graphics Design, Development, Electronics Maintenance ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on our Final year project ...
-- 🤔 I’m looking for help with  ...
+- 🔭 I’m currently working on Graphics Design, Web and Mobile Development and Electronics Maintenance.
+- 🌱 I’m currently learning on Alx 
+- 👯 I’m looking to collaborate on our Final year project 
 - 💬 Ask me about programming and Graphics
-- 📫 How to reach me: tewodrosd47@gmail.com...
+- 📫 How to reach me: Telegram @tewodros46
 - 😄 Pronouns: Tedy 
 
 
