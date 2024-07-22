@@ -1,19 +1,4 @@
-## Hi  👋
-
-
 ✨✨✨
-
-Here are some information about me:
-
-- 🔭 I’m currently working on Graphics Design, Development, Electronics Maintenance ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on our Final year project ...
-- 🤔 I’m looking for help with  ...
-- 💬 Ask me about programming and Graphics
-- 📫 How to reach me: tewodrosd47@gmail.com...
-- 😄 Pronouns: Tedy 
-
-
 <h2 align="left">Hi 👋! My name is Tewodros Mekuriya and I'm a Software Developer, from Ethiopia</h2>
 
 ###
@@ -56,10 +41,22 @@ Here are some information about me:
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
 
-<br clear="both">
+- 🔭 I’m currently working on Graphics Design, Development, Electronics Maintenance ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on our Final year project ...
+- 🤔 I’m looking for help with  ...
+- 💬 Ask me about programming and Graphics
+- 📫 How to reach me: tewodrosd47@gmail.com...
+- 😄 Pronouns: Tedy 
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-###
+
+
+
+
+
+
+
+
+
