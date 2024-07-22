@@ -47,7 +47,7 @@
 - 🌱 I’m currently learning on Alx 
 - 👯 I’m looking to collaborate on our Final year project 
 - 💬 Ask me about programming and Graphics
-- 📫 How to reach me: Telegram @tewodros46
+- 📫 How to reach me: Telegram , Email
 - 😄 Pronouns: Tedy 
 
 
