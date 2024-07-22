@@ -1,5 +1,5 @@
 ✨✨✨
-<h2 align="left">Hi 👋! My name is Tewodros Mekuriya and I'm a Software Developer, from Ethiopia</h2>
+<h2 align="left">Hi 👋! My name is Tewodros Mekuriya and I'm a Software Developer from Ethiopia</h2>
 
 ###
 
@@ -34,10 +34,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
   
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo" />
-
-
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
  
