@@ -58,7 +58,13 @@
 
 ###
 
-<div align="left">
+
+
+
+- 🔭 I’m currently working on Graphics Design , Website and Mobile Application Development and Electronics Maintenance.
+- 🌱 I’m currently learning on Alx  
+- 💬 Ask me about programming and Graphics
+- 📫 How to reach me: <div align="left">
   <a href="https://t.me/tewodros46">
  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
 
@@ -70,12 +76,6 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   
 </div>
-
-
-- 🔭 I’m currently working on Graphics Design , Website and Mobile Application Development and Electronics Maintenance.
-- 🌱 I’m currently learning on Alx  
-- 💬 Ask me about programming and Graphics
-- 📫 How to reach me: use Telegram or Email
 - 😄 Pronouns: Tedy 
 
 
