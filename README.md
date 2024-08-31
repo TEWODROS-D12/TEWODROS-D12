@@ -73,10 +73,9 @@
 
 
 - 🔭 I’m currently working on Graphics Design , Website and Mobile Application Development and Electronics Maintenance.
-- 🌱 I’m currently learning on Alx 
-- 👯 I’m looking to collaborate on our Final year project 
+- 🌱 I’m currently learning on Alx  
 - 💬 Ask me about programming and Graphics
-- 📫 How to reach me: Telegram or Email
+- 📫 How to reach me: use Telegram or Email
 - 😄 Pronouns: Tedy 
 
 
