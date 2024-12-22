@@ -1,5 +1,5 @@
 ✨✨✨
-<h2 align="left">  "                               " An idea is nothing without execution</h2>
+<h2 align="left"> An idea is nothing without execution</h2>
 
 ###
 
@@ -72,11 +72,11 @@
 </div>
 
 
-- 🔭 I’m currently working on Graphics Design , Website and Mobile Application Development and Electronics Maintenance.
+- 🔭 I’m currently working on Website, Mobile Application Development and Graphics Design .
 - 🌱 I’m currently learning on Alx  
 - 💬 Ask me about programming and Graphics
-- 📫 How to reach me: use email or telegram
-- 😄 Pronouns: Tedy 
+- 📫 How to reach me: use Email or Telegram
+- 😄 Pronouns: Teddy 
 
 
 
