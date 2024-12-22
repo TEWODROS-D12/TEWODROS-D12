@@ -1,5 +1,5 @@
 ✨✨✨
-<h2 align="left">Hi 👋! My name is Tewodros and I'm a Software Developer from Ethiopia</h2>
+<h2 align="left"> An idea is nothing without execution</h2>
 
 ###
 
