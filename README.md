@@ -1,5 +1,5 @@
 ✨✨✨
-<h2 align="left"> ### TEWODROS MEKURIYA </h2>
+<h2 align="center">  TEWODROS MEKURIYA </h2>
 
 ###
 
