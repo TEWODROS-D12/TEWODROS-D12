@@ -73,7 +73,6 @@
 
 
 - 🔭 I’m currently working on Website, Mobile Application Development and Graphics Design .
-- 🌱 I’m currently learning on Alx  
 - 💬 Ask me about programming and Graphics
 - 📫 How to reach me: use Email or Telegram
 - 😄 Pronouns: Teddy 
