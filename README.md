@@ -71,11 +71,13 @@
   
 </div>
 
+-🔧 Currently building the Lomii Dating App
 
-- 🔭 I’m currently working on Date on Lomii Mobile Application Development.
-- 💬 Ask me about programming
-- 📫 How to reach me: use Email or Telegram
-- 😄 Pronouns: Teddy 
+-💬 Love talking about programming
+
+-📫 Reach me via Email or Telegram
+
+-😄 You can call me Teddy
 
 
 
