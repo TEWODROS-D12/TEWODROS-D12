@@ -72,8 +72,8 @@
 </div>
 
 
-- 🔭 I’m currently working on Website, Mobile Application Development and Graphics Design .
-- 💬 Ask me about programming and Graphics
+- 🔭 I’m currently working on Date on Lomii Mobile Application Development.
+- 💬 Ask me about programming
 - 📫 How to reach me: use Email or Telegram
 - 😄 Pronouns: Teddy 
 
