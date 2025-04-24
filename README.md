@@ -72,11 +72,8 @@
 </div>
 
 -🔧 Currently building the Lomii Dating App
-
 -💬 Love talking about programming
-
 -📫 Reach me via Email or Telegram
-
 -😄 You can call me Teddy
 
 
